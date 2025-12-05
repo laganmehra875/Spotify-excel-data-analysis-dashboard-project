@@ -13,8 +13,8 @@ this process involved several stages, including data preprocessing,data cleaning
 - <a href="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Task%206%20of%20Spotify%20social%20media%20performace%20data%20%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy.xlsx"> dataset task6</a>
  
 
--  Dashboard interaction <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.54.42.png">view dashboard </a>
-- Dashboard interaction <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.55.06.png"> view dashboard </a>
+-  Dashboard interaction <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.54.42.png"> view dashboard</a>
+- Dashboard interaction <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.55.06.png"> view dashboard</a>
 - Dashboard interaction <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.55.25.png"> view dashboard</a>
 
 ## KEY   FINDINGS--->
