@@ -52,4 +52,11 @@ REDUCE SPEND ON PURE"AWARENESS"CAMPAIGNS(e.g., WRAPPED2024 ) UNLESS TIED WITH ST
 UNFOLLOWS  ARE ~35K(≈18%OF NEW  FOLLOWERS). 
 IMPROVE RETENTION WITH PERSONALIZED PLAYLISTS , PUSH FOR RE -ENGAGEMENT CONTENT,AND COMMUNITY - DRIVEN POSTS.
 
+## Dashboard Interaction 
+- <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.54.42.png">view dashboard </a>
+-<a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.55.06.png"> view dashboard </a>
+-<a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.55.25.png"> view dashboard</a>
+
+
+
 
