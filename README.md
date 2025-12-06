@@ -22,6 +22,7 @@ Here are clear, relevant, and professional KPIs you can use for your Spotify Soc
 
 ## 📌 Key Performance Indicators (KPIs)
 
+---
 1. Engagement KPIs
 
 1. Engagement Rate
@@ -121,7 +122,7 @@ Tracks long-term follower retention trends.
 3. Follower Retention Rate
 Followers maintained over time without drop-offs.
 
-
+---
  
 
 ## RECOMMENDATIONS :
