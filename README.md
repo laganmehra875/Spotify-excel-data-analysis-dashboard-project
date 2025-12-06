@@ -61,7 +61,7 @@ Measures how quickly each platform gains followers.
 Engagement ÷ Ad Spend
 Identifies which platform gives the best return on budget.
 
-- Dashboard Interaaction : <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.54.42.png">View Dashboard</a>
+- Dashboard Interaaction <a herf="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.54.42.png">View Dashboard</a>
 
 ---
 
