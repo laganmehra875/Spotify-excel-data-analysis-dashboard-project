@@ -103,6 +103,7 @@ Shows whether paid strategies are helping grow the audience.
 Total Ad Spend ÷ New Followers
 Indicates financial efficiency of growth.
 
+- Dashboard Interaction <a href="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.55.06.png">View Dashboard</a>
 
 
 
@@ -121,6 +122,8 @@ Tracks long-term follower retention trends.
 
 3. Follower Retention Rate
 Followers maintained over time without drop-offs.
+
+- Dashboard Interaction <a href="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Screenshot%202025-12-05%20at%2013.55.25.png">View Dashboard</a>
 
 ---
  
