@@ -154,7 +154,7 @@ IMPROVE RETENTION WITH PERSONALIZED PLAYLISTS , PUSH FOR RE -ENGAGEMENT CONTENT,
 
 
 ## Conclusion :
---
+
 
 This project successfully integrates Spotify’s social media data into a unified analytical framework that supports clearer, data-driven decision-making. Through systematic preprocessing, engagement evaluation, platform comparison, hashtag performance analysis, campaign effectiveness measurement, and follower-trend assessment, the insights point to several consistent patterns that can strengthen Spotify’s digital strategy.
 
