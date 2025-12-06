@@ -126,7 +126,6 @@ Followers maintained over time without drop-offs.
  
 
 ## RECOMMENDATIONS :
---
 
 1.FOCUS AD SPENDS. ON YOUTUBE 
 HIGHEST ROI -->ALLOCATE A BIGGER SHARE OF THE NEXT CAMPAIGN 'S BUDGETS HERE.
