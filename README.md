@@ -12,12 +12,6 @@ this process involved several stages, including data preprocessing,data cleaning
 - <a href="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Task%205%20of%20Spotify%20social%20media%20performace%20data%20%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy.xlsx"> dataset task5</a>
 - <a href="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project/blob/main/Task%206%20of%20Spotify%20social%20media%20performace%20data%20%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy.xlsx"> dataset task6</a>
 
-
-## KEY   FINDINGS :
-
-Here are clear, relevant, and professional KPIs you can use for your Spotify Social Media Analytics project. These KPIs align directly with the tasks and objectives in your problem statement.
-
-
 ---
 
 ## 📌 Key Performance Indicators (KPIs)
