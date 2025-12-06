@@ -161,12 +161,4 @@ This project successfully integrates Spotify’s social media data into a unifie
 The analysis shows that engagement is not evenly distributed across platforms or content types—visual and interactive formats tend to deliver stronger results, while certain hashtags and artist collaborations significantly boost reach. Platform performance comparisons highlight where Spotify receives the highest returns on engagement and follower growth, enabling more efficient allocation of advertising budgets. Campaign analysis further demonstrates how targeted initiatives influence impressions, clicks, and follower behaviour, helping distinguish high-ROI campaigns from those with lower impact. Additionally, follower-trend insights reveal the importance of sustained investment in content quality and platform consistency to support long-term audience loyalty.
 
 Overall, the findings reinforce that a structured Social Media Intelligence System can greatly enhance Spotify’s ability to optimize content strategies, refine platform investments, and evaluate the success of ongoing campaigns. By applying these insights, Spotify can build a stronger digital presence, increase engagement efficiency, and ultimately support higher follower retention and conversion to premium subscriptions.
-
-
-
-
-
-
-
-
-
+--
