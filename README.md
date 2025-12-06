@@ -127,13 +127,16 @@ Followers maintained over time without drop-offs.
 
 ## RECOMMENDATIONS :
 
+--
 
 1.FOCUS AD SPENDS. ON YOUTUBE 
-HIGHEST ROI -->ALLOCATE A BIGGER SHARE OF THE NEXT CAMPAIGN 'S BUDGETS HERE. 
+HIGHEST ROI -->ALLOCATE A BIGGER SHARE OF THE NEXT CAMPAIGN 'S BUDGETS HERE.
+
 ---
 2.OPTIMIZE INSTAGRAM STRATEGY
 HIGH SPEND BUT LOWER ROI. 
 RECOMMENDATION: SHIFT TOWARDS ORGANIC CONTENT( REELS, STORIES)+INFLUENCER TIE -UPS INSTEAD OF HEAVY ADS. 
+
 ---
 3. DOUBLE DOWN ON PROVEN HASHTAGS 
 CAMPAIGNS USING #DISCOVER WEEKLY AND #SPOTIFYWRAPPED PERFORM STRONGLY. 
@@ -153,6 +156,7 @@ IMPROVE RETENTION WITH PERSONALIZED PLAYLISTS , PUSH FOR RE -ENGAGEMENT CONTENT,
 
 
 ## Conclusion :
+--
 
 This project successfully integrates Spotify’s social media data into a unified analytical framework that supports clearer, data-driven decision-making. Through systematic preprocessing, engagement evaluation, platform comparison, hashtag performance analysis, campaign effectiveness measurement, and follower-trend assessment, the insights point to several consistent patterns that can strengthen Spotify’s digital strategy.
 
