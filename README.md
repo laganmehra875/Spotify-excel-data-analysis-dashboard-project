@@ -162,4 +162,4 @@ The analysis shows that engagement is not evenly distributed across platforms or
 
 Overall, the findings reinforce that a structured Social Media Intelligence System can greatly enhance Spotify’s ability to optimize content strategies, refine platform investments, and evaluate the success of ongoing campaigns. By applying these insights, Spotify can build a stronger digital presence, increase engagement efficiency, and ultimately support higher follower retention and conversion to premium subscriptions.
 
---
+
